@@ -5,6 +5,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" scope="PROVIDED" name="httparty (v0.11.0, RVM: ruby-1.9.3-head) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="json (v1.7.7, RVM: ruby-1.9.3-head) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="multi_json (v1.7.3, RVM: ruby-1.9.3-head) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="multi_xml (v0.5.4, RVM: ruby-1.9.3-head) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="test-unit (v2.5.2, RVM: ruby-1.9.3-head) [gem]" level="application" />
